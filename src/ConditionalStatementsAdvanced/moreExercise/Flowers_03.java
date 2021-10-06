@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.moreExercise;
 
 import java.util.Scanner;
 
-public class Flowers {
+public class Flowers_03 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int chrysanthemums = Integer.parseInt(scanner.nextLine());
@@ -24,15 +24,14 @@ public class Flowers {
                 rosePrice = 4.10;
                 tulipPrice = 2.50;
                 break;
-            case "Аutumn":
+            case "Autumn":
             case "Winter":
                 chrysanthemumPrice = 3.75;
                 rosePrice = 4.50;
                 tulipPrice = 4.15;
                 break;
         }
-
-        bouquetPrice = chrysanthemums * chrysanthemumPrice + roses * rosePrice + tulips + tulipPrice;
+        bouquetPrice = chrysanthemums * chrysanthemumPrice + roses * rosePrice + tulips * tulipPrice;
 
         if (holiday == 'Y') {
             bouquetPrice *= 1.15;

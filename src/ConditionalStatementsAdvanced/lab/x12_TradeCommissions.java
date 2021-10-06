@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.lab;
 
 import java.util.Scanner;
 
-public class TradeCommissions_12 {
+public class x12_TradeCommissions {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String city = scanner.nextLine();

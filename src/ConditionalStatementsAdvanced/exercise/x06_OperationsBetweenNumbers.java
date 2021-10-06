@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class OperationsBetweenNumbers_06 {
+public class x06_OperationsBetweenNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double n1 = Double.parseDouble(scanner.nextLine());

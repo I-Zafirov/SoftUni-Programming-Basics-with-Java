@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class SkiTrip_09 {
+public class x09_SkiTrip {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int days = Integer.parseInt(scanner.nextLine());

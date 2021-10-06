@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.lab;
 
 import java.util.Scanner;
 
-public class PersonalTitles_04 {
+public class x04_PersonalTitles {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double age = Double.parseDouble(scanner.nextLine());

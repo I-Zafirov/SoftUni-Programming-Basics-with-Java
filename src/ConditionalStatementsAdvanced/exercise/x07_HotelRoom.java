@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class HotelRoom_07 {
+public class x07_HotelRoom {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String month = scanner.nextLine();

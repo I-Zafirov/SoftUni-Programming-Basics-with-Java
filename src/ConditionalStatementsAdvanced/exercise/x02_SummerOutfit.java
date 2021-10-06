@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class SummerOutfit_02 {
+public class x02_SummerOutfit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int degrees = Integer.parseInt(scanner.nextLine());

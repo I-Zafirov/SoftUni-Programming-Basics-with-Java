@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.moreExercise;
 
 import java.util.Scanner;
 
-public class CarToGo_04 {
+public class x04_CarToGo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double budget = Double.parseDouble(scanner.nextLine());

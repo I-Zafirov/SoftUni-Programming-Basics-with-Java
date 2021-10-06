@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class Cinema_01 {
+public class x01_Cinema {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String projection = scanner.nextLine();

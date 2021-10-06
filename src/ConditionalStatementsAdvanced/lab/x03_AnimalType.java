@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.lab;
 
 import java.util.Scanner;
 
-public class AnimalType_03 {
+public class x03_AnimalType {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String animal = scanner.nextLine();

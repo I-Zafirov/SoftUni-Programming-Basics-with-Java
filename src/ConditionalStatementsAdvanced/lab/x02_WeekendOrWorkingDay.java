@@ -2,31 +2,25 @@ package ConditionalStatementsAdvanced.lab;
 
 import java.util.Scanner;
 
-public class WorkingHours_07 {
+public class x02_WeekendOrWorkingDay {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int hours = Integer.parseInt(scanner.nextLine());
         String day = scanner.nextLine();
-
-        String workingTimes = "";
-
         switch (day) {
             case "Monday":
             case "Tuesday":
             case "Wednesday":
             case "Thursday":
             case "Friday":
+                System.out.println("Working day");
+                break;
             case "Saturday":
-                if (hours >= 10 && hours <= 18) {
-                    workingTimes = "open";
-                } else {
-                    workingTimes = "closed";
-                }
+            case "Sunday":
+                System.out.println("Weekend");
                 break;
             default:
-                workingTimes = "closed";
+                System.out.println("Error");
                 break;
         }
-        System.out.println(workingTimes);
     }
 }

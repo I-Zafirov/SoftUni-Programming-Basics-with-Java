@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class FishingBoat_04 {
+public class x04_FishingBoat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int budget = Integer.parseInt(scanner.nextLine());

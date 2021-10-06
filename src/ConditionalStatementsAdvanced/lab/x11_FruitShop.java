@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.lab;
 
 import java.util.Scanner;
 
-public class FruitShop_11 {
+public class x11_FruitShop {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

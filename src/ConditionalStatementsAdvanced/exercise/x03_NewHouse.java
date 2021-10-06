@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class NewHouse_03 {
+public class x03_NewHouse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String kindOfFlowers = scanner.nextLine();

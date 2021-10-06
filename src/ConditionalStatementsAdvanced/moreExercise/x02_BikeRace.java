@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.moreExercise;
 
 import java.util.Scanner;
 
-public class BikeRace_02 {
+public class x02_BikeRace {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int juniors = Integer.parseInt(scanner.nextLine());

@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.exercise;
 
 import java.util.Scanner;
 
-public class OnTimeForTheExam_08 {
+public class x08_OnTimeForTheExam {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int examHour = Integer.parseInt(scanner.nextLine());

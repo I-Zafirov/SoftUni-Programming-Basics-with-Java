@@ -2,7 +2,7 @@ package ConditionalStatementsAdvanced.lab;
 
 import java.util.Scanner;
 
-public class CinemaTicket_08 {
+public class x08_CinemaTicket {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String day = scanner.nextLine();

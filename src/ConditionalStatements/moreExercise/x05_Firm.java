@@ -2,7 +2,7 @@ package ConditionalStatements.moreExercise;
 
 import java.util.Scanner;
 
-public class Firm_05 {
+public class x05_Firm {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int neededHours = Integer.parseInt(scanner.nextLine());

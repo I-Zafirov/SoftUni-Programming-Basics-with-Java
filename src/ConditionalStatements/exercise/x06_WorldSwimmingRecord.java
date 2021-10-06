@@ -2,7 +2,7 @@ package ConditionalStatements.exercise;
 
 import java.util.Scanner;
 
-public class WorldSwimmingRecord_06 {
+public class x06_WorldSwimmingRecord {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double worldRecord = Double.parseDouble(scanner.nextLine());

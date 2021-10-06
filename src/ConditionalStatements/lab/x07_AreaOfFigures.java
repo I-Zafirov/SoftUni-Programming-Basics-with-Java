@@ -2,7 +2,7 @@ package ConditionalStatements.lab;
 
 import java.util.Scanner;
 
-public class AreaOfFigures_07 {
+public class x07_AreaOfFigures {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String figure = scanner.nextLine();

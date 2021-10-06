@@ -2,7 +2,7 @@ package ConditionalStatements.exercise;
 
 import java.util.Scanner;
 
-public class LunchBreak_08 {
+public class x08_LunchBreak {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String serialName = scanner.nextLine();

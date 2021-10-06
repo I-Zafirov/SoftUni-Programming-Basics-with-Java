@@ -2,7 +2,7 @@ package ConditionalStatements.exercise;
 
 import java.util.Scanner;
 
-public class TimeAdd15Minutes_03 {
+public class x03_TimeAdd15Minutes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int hours = Integer.parseInt(scanner.nextLine());

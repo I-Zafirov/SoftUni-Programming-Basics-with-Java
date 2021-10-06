@@ -2,7 +2,7 @@ package ConditionalStatements.moreExercise;
 
 import java.util.Scanner;
 
-public class FuelTankPart2_08 {
+public class x08_FuelTankPart2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String fuel = scanner.nextLine();

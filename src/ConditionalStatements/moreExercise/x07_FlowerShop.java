@@ -2,7 +2,7 @@ package ConditionalStatements.moreExercise;
 
 import java.util.Scanner;
 
-public class FlowerShop_07 {
+public class x07_FlowerShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int magnolias = Integer.parseInt(scanner.nextLine());

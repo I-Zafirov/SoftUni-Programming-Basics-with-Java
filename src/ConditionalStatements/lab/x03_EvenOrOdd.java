@@ -2,7 +2,7 @@ package ConditionalStatements.lab;
 
 import java.util.Scanner;
 
-public class EvenOrOdd_03 {
+public class x03_EvenOrOdd {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = Integer.parseInt(scanner.nextLine());

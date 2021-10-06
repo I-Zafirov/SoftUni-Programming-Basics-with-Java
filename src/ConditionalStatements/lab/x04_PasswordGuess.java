@@ -2,7 +2,7 @@ package ConditionalStatements.lab;
 
 import java.util.Scanner;
 
-public class PasswordGuess_04 {
+public class x04_PasswordGuess {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String password = scanner.nextLine();

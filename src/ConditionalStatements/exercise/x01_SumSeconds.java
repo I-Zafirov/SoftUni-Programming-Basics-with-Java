@@ -2,7 +2,7 @@ package ConditionalStatements.exercise;
 
 import java.util.Scanner;
 
-public class SumSeconds_01 {
+public class x01_SumSeconds {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int first = Integer.parseInt(scanner.nextLine());

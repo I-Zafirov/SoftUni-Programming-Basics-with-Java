@@ -2,7 +2,7 @@ package ConditionalStatements.moreExercise;
 
 import java.util.Scanner;
 
-public class Harvest_03 {
+public class x03_Harvest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x = Integer.parseInt(scanner.nextLine());

@@ -2,7 +2,7 @@ package ConditionalStatements.exercise;
 
 import java.util.Scanner;
 
-public class ToyShop_04 {
+public class x04_ToyShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double excursionPrice = Double.parseDouble(scanner.nextLine());

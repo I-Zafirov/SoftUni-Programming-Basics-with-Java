@@ -2,7 +2,7 @@ package ConditionalStatements.lab;
 
 import java.util.Scanner;
 
-public class SpeedInfo_06 {
+public class x06_SpeedInfo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double speed = Double.parseDouble(scanner.nextLine());

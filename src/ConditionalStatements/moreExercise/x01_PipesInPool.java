@@ -2,7 +2,7 @@ package ConditionalStatements.moreExercise;
 
 import java.util.Scanner;
 
-public class PipesInPool_01 {
+public class x01_PipesInPool {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double v = Double.parseDouble(scanner.nextLine());

@@ -2,7 +2,7 @@ package ConditionalStatements.exercise;
 
 import java.util.Scanner;
 
-public class GodzillaVsKongT_05 {
+public class x05_GodzillaVsKongT {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double budgetMovie = Double.parseDouble(scanner.nextLine());

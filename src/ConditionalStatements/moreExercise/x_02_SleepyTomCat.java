@@ -2,7 +2,7 @@ package ConditionalStatements.moreExercise;
 
 import java.util.Scanner;
 
-public class SleepyTomCat_02 {
+public class x_02_SleepyTomCat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int weekends = Integer.parseInt(scanner.nextLine());

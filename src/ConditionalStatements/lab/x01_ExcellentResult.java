@@ -2,7 +2,7 @@ package ConditionalStatements.lab;
 
 import java.util.Scanner;
 
-public class ExcellentResult_01 {
+public class x01_ExcellentResult {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int grade = Integer.parseInt(scanner.nextLine());

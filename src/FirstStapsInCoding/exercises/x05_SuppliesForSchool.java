@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class SuppliesForSchool_05 {
+public class x05_SuppliesForSchool {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int penPackets = Integer.parseInt(scanner.nextLine());

@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class DepositCalculator_03 {
+public class x03_DepositCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double depositSum = Double.parseDouble(scanner.nextLine());

@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class BasketballEquipment_08 {
+public class x08_BasketballEquipment {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int annualFee = Integer.parseInt(scanner.nextLine());

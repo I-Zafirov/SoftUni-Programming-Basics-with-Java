@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class FishTank_09 {
+public class x09_FishTank {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

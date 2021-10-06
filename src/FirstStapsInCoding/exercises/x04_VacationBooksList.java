@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class VacationBooksList_04 {
+public class x04_VacationBooksList {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numberOfPages = Integer.parseInt(scanner.nextLine());

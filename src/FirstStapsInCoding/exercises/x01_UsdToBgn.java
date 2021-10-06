@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class UsdToBgn_01 {
+public class x01_UsdToBgn {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double usd = Double.parseDouble(scanner.nextLine());

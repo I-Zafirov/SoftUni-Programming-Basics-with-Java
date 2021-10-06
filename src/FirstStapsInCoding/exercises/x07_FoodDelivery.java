@@ -2,7 +2,7 @@ package FirstStapsInCoding.exercises;
 
 import java.util.Scanner;
 
-public class FoodDelivery_07 {
+public class x07_FoodDelivery {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int chickenMenu = Integer.parseInt(scanner.nextLine());

@@ -2,7 +2,7 @@ package ForLoop.exercises;
 
 import java.util.Scanner;
 
-public class Oscars_06 {
+public class x06_Oscars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();

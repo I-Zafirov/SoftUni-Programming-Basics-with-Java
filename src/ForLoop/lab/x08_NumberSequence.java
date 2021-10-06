@@ -2,7 +2,7 @@ package ForLoop.lab;
 
 import java.util.Scanner;
 
-public class NumberSequence_08 {
+public class x08_NumberSequence {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int countNumbers = Integer.parseInt(scanner.nextLine());

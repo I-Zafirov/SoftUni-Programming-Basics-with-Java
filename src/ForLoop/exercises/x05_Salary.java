@@ -2,7 +2,7 @@ package ForLoop.exercises;
 
 import java.util.Scanner;
 
-public class Salary_05 {
+public class x05_Salary {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int tabs = Integer.parseInt(scanner.nextLine());

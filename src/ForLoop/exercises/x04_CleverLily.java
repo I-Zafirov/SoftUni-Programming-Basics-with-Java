@@ -2,7 +2,7 @@ package ForLoop.exercises;
 
 import java.util.Scanner;
 
-public class CleverLily_04 {
+public class x04_CleverLily {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int age = Integer.parseInt(scanner.nextLine());

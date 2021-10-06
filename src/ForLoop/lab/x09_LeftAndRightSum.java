@@ -2,7 +2,7 @@ package ForLoop.lab;
 
 import java.util.Scanner;
 
-public class LeftAndRightSum_09 {
+public class x09_LeftAndRightSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

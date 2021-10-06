@@ -2,7 +2,7 @@ package ForLoop.exercises;
 
 import java.util.Scanner;
 
-public class TrekkingMania_07 {
+public class x07_TrekkingMania {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int groupsNumber = Integer.parseInt(scanner.nextLine());

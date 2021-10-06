@@ -2,13 +2,13 @@ package ForLoop.lab;
 
 import java.util.Scanner;
 
-public class EvenPowersOf2_04 {
+public class x03_Numbers1ToNWithStep3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
 
-        for (int step = 0; step <= n; step += 2) {
-            System.out.printf("%.0f%n", Math.pow(2, step));
+        for (int number = 1; number <= n; number += 3) {
+            System.out.println(number);
         }
     }
 }

@@ -2,7 +2,7 @@ package ForLoop.lab;
 
 import java.util.Scanner;
 
-public class OddEvenSum_10 {
+public class x10_OddEvenSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());

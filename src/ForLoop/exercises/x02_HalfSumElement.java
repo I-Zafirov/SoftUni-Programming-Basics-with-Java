@@ -2,7 +2,7 @@ package ForLoop.exercises;
 
 import java.util.Scanner;
 
-public class HalfSumElement_02 {
+public class x02_HalfSumElement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());

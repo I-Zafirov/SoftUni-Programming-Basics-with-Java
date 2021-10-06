@@ -2,7 +2,7 @@ package ForLoop.exercises;
 
 import java.util.Scanner;
 
-public class NumbersEndingIn7_01 {
+public class x01_NumbersEndingIn7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

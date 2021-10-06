@@ -2,7 +2,7 @@ package ForLoop.lab;
 
 import java.util.Scanner;
 
-public class VowelsSum_06 {
+public class x06_VowelsSum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String text = scanner.nextLine();

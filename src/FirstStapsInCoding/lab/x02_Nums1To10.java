@@ -1,6 +1,6 @@
 package FirstStapsInCoding.lab;
 
-public class Nums1To10_02 {
+public class x02_Nums1To10 {
     public static void main(String[] args) {
         System.out.println(1);
         System.out.println(2);

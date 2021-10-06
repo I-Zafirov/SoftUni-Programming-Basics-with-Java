@@ -2,7 +2,7 @@ package FirstStapsInCoding.lab;
 
 import java.util.Scanner;
 
-public class ConcatenateData_06 {
+public class x06_ConcatenateData {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String firstName = scanner.nextLine();

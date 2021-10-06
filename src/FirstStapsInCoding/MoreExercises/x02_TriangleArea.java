@@ -2,7 +2,7 @@ package FirstStapsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
-public class TriangleArea_02 {
+public class x02_TriangleArea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double a = Double.parseDouble(scanner.nextLine());

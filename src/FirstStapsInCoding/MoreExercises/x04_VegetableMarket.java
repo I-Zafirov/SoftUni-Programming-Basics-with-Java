@@ -2,7 +2,7 @@ package FirstStapsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
-public class VegetableMarket_04 {
+public class x04_VegetableMarket {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double priceOfVegetables = Double.parseDouble(scanner.nextLine());

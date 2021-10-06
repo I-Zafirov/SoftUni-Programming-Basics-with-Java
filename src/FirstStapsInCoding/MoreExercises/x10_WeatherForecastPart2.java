@@ -2,7 +2,7 @@ package FirstStapsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
-public class WeatherForecastPart2_10 {
+public class x10_WeatherForecastPart2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double temp = Double.parseDouble(scanner.nextLine());

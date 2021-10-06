@@ -2,7 +2,7 @@ package FirstStapsInCoding.lab;
 
 import java.util.Scanner;
 
-public class InchesToCentimeters_04 {
+public class x04_InchesToCentimeters {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double inches = Double.parseDouble(scanner.nextLine());

@@ -2,7 +2,7 @@ package FirstStapsInCoding.lab;
 
 import java.util.Scanner;
 
-public class PetShop_08 {
+public class x08_PetShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numDog = Integer.parseInt(scanner.nextLine());

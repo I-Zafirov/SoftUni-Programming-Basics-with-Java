@@ -2,7 +2,7 @@ package FirstStapsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
-public class CelsiusToFahrenheit_03 {
+public class x03_CelsiusToFahrenheit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double Celsius = Double.parseDouble(scanner.nextLine());

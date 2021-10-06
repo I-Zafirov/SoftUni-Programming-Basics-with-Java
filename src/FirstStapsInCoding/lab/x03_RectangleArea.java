@@ -2,7 +2,7 @@ package FirstStapsInCoding.lab;
 
 import java.util.Scanner;
 
-public class RectangleArea_03 {
+public class x03_RectangleArea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = Integer.parseInt(scanner.nextLine());

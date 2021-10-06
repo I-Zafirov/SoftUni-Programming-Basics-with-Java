@@ -2,7 +2,7 @@ package FirstStapsInCoding.lab;
 
 import java.util.Scanner;
 
-public class ProjectsCreation_07 {
+public class x07_ProjectsCreation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String architectName = scanner.nextLine();

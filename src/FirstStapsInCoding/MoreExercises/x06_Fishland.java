@@ -2,7 +2,7 @@ package FirstStapsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
-public class Fishland_06 {
+public class x06_Fishland {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double priceMackerel = Double.parseDouble(scanner.nextLine());

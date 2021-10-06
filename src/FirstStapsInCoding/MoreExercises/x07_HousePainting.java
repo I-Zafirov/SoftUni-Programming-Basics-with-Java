@@ -2,7 +2,7 @@ package FirstStapsInCoding.MoreExercises;
 
 import java.util.Scanner;
 
-public class HousePainting_07 {
+public class x07_HousePainting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double x = Double.parseDouble(scanner.nextLine());

@@ -1,0 +1,28 @@
+package Exam.x20And21April2019_UpdatingFromCToJava;
+
+public class x02_EasterGuests {
+    /*
+    int guests = int.Parse(Console.ReadLine()); // Прочитаме броя на гостите
+            int budget = int.Parse(Console.ReadLine()); // Прочитаме бюджета
+
+            double easterBread = Math.Ceiling(guests / 3.0); // Излисляваме броя на козунаците
+            int eggs = guests * 2; // Изчисляваме броя на яйцата
+
+            double easterBreadPrice = easterBread * 4; // Изчисляваме цената за всичи козунаци
+            double eggsPrice = eggs * 0.45; // Изчисляваме цената за всички яйца
+
+            double totalPrice = easterBreadPrice + eggsPrice; // Намираме общата цена
+
+            if (totalPrice <= budget)
+            {
+                double moneyLeft = budget - totalPrice; // Изчисляваме парите, които остават
+                Console.WriteLine($"Lyubo bought {easterBread} Easter bread and {eggs} eggs.");
+                Console.WriteLine($"He has {moneyLeft:F2} lv. left.");
+            }
+            else
+            {
+                double moneyNeed = totalPrice - budget; // Изчисляваме парите, които не достигат
+                Console.WriteLine("Lyubo doesn't have enough money.");
+                Console.WriteLine($"He needs {moneyNeed:F2} lv. more.");
+     */
+}

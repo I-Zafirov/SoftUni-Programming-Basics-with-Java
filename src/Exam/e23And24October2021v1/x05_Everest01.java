@@ -1,8 +1,8 @@
-package Exam.Exam;
+package Exam.e23And24October2021v1;
 
 import java.util.Scanner;
 
-public class x05_Everest_UnderDevelopment {
+public class x05_Everest01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -12,7 +12,9 @@ public class x04_Darts {
         boolean isWon = false;
         int successfulShots = 0;
         int unSuccessfulShots = 0;
+
         String command = scanner.nextLine();
+
         while (!command.equals("Retire")) {
             int points = Integer.parseInt(scanner.nextLine());
             // ("Single", "Double" или "Triple")
@@ -40,11 +42,9 @@ public class x04_Darts {
             command = scanner.nextLine();
         }
         if (isWon) {
-            System.out.printf("%s won the leg with %d shots."
-                    , player, successfulShots);
+            System.out.printf("%s won the leg with %d shots.", player, successfulShots);
         } else {
-            System.out.printf("%s retired after %d unsuccessful shots."
-                    , player, unSuccessfulShots);
+            System.out.printf("%s retired after %d unsuccessful shots.", player, unSuccessfulShots);
         }
     }
 }

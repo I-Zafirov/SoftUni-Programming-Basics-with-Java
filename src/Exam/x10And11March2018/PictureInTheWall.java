@@ -2,7 +2,7 @@ package Exam.x10And11March2018;
 
 import java.util.Scanner;
 
-public class PicInTheWall {
+public class PictureInTheWall {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

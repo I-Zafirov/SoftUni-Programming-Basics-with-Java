@@ -1,29 +1,28 @@
-package Exam.x20And21April2019_UpdatingFromCToJava;
+package Exam.x20And21April2019;
 
 import java.util.Scanner;
 
-public class x01_EasterBakery {
+public class x01_EasterLunch {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        double flourPrice = Double.parseDouble(scan.nextLine());
-        double flourKg = Double.parseDouble(scan.nextLine());
-        double sugarKg = Double.parseDouble(scan.nextLine());
-        int kori = Integer.parseInt(scan.nextLine());
-        int maia = Integer.parseInt(scan.nextLine());
-        double sugarPrice = flourPrice * 0.75;
-        double eggPrice = flourPrice * 1.1;
-        double maiaPrice = sugarPrice * 0.2;
-        double totalFlour = flourKg * flourPrice;
-        double totalSugar = sugarKg * sugarPrice;
-        double totalEgg = eggPrice * kori;
-        double totalMaia = maia * maiaPrice;
-        double totalPrice = totalFlour + totalSugar + totalEgg + totalMaia;
-        System.out.printf("%.2f",totalPrice);
+        Scanner scanner = new Scanner(System.in);
 
+        int easterBread = Integer.parseInt(scanner.nextLine());
+        int packetEggs = Integer.parseInt(scanner.nextLine());
+        int kgCookies = Integer.parseInt(scanner.nextLine());
+
+        double sumOfBreads = (easterBread * 1.0) * 3.20;
+        double sumOfcookies = (kgCookies * 1.0) * 5.40;
+        double sumPaintEggs = (packetEggs * 1.0) * 12 * 0.15;
+        double sumOfEggsOnly = (packetEggs * 1.0) * 4.35;
+
+        double allSum = sumOfBreads + sumOfcookies + sumPaintEggs + sumOfEggsOnly;
+
+        System.out.printf("%.2f", allSum);
     }
 }
+
 /*
-     double flourPricePerKg = double.Parse(Console.ReadLine()); // Прочитаме цената за килограм брашно
+double flourPricePerKg = double.Parse(Console.ReadLine()); // Прочитаме цената за килограм брашно
             double flourKg = double.Parse(Console.ReadLine()); // Прочитаме килограмите брашно
             double sugarKg = double.Parse(Console.ReadLine()); // Прочитаме килограмите захар
             int eggPacks = int.Parse(Console.ReadLine()); // Прочитаме броя на корите с яйца
@@ -38,14 +37,14 @@ public class x01_EasterBakery {
                     eggsPricePerPack * eggPacks +
                     yeastPricePerPack * yeastPacks;
 
-
+            /*
             Изчисляваме общата цена за всичко, като съберем:
             цената за килограм брашно умножена по килограмите брашно
             цената за килограм захар умножена килограмите захар
             цената за една кора яйца умножена по броя на корите яйца
             цената за един пакен мая умножена по броя на пакетите мая
+             */
 
+//Console.WriteLine($"{totalPrice:F2}");
 
-            Console.WriteLine($"{totalPrice:F2}");
-     */
 

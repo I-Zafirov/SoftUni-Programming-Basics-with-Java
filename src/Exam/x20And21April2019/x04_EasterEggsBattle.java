@@ -1,4 +1,4 @@
-package Exam.x20And21April2019_UpdatingFromCToJava;
+package Exam.x20And21April2019;
 
 import java.util.Scanner;
 

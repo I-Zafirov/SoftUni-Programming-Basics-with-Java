@@ -1,4 +1,4 @@
-package Exam.e23And24October2021_UnderDevelopment;
+package Exam.e23And24October2021;
 
 import java.util.Scanner;
 

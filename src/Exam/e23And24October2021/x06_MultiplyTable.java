@@ -1,8 +1,8 @@
-package Exam.e23And24October2021_UnderDevelopment;
+package Exam.e23And24October2021;
 
 import java.util.Scanner;
 
-public class x06_MultiplyTable_UnderDevelopment {
+public class x06_MultiplyTable {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

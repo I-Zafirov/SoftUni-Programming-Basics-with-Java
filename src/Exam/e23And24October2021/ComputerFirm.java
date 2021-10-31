@@ -1,8 +1,8 @@
-package Exam.e23And24October2021_UnderDevelopment;
+package Exam.e23And24October2021;
 
 import java.util.Scanner;
 
-public class x04_Computer_Firm {
+public class ComputerFirm {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -33,6 +33,7 @@ public class x04_Computer_Firm {
                     break;
             }
         }
+
         System.out.printf("%.2f%n", salesCount);
         System.out.printf("%.2f", averageRating / computersCount);
     }
